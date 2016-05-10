@@ -1,0 +1,28 @@
+name: theskihivestate
+favicon: null
+layout_spectrum: 0.9542752921115607
+typography_spectrum: 0.5086416588164866
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9781725534703583
+  lightness: 0.4489800704177469
+  saturation: 0.2813157318159938
+  rhythmicContrast: 0.16148789855651557
+purpose: []
